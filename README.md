@@ -16,6 +16,13 @@ Model- Architecture:
 
 
 
+Data augmentation:
+
+![image](https://user-images.githubusercontent.com/65066352/119274133-c411d880-bc0e-11eb-8c03-751f7930e89b.png)
+
+
+
+
 Training data sample:
 
 
@@ -25,11 +32,6 @@ Training data sample:
 
 
 Test samples:
-
-
-![image](https://user-images.githubusercontent.com/65066352/119274133-c411d880-bc0e-11eb-8c03-751f7930e89b.png)
-
-
 
 ![image](https://user-images.githubusercontent.com/65066352/119274244-371b4f00-bc0f-11eb-8c7b-cad5c3d39b8f.png)
 
