@@ -44,7 +44,11 @@ Training data sample:
 
 Test samples:
 
-![image](https://user-images.githubusercontent.com/65066352/119274244-371b4f00-bc0f-11eb-8c7b-cad5c3d39b8f.png)
+![denoised_8](https://user-images.githubusercontent.com/65066352/124307618-6014f500-db68-11eb-9b2b-3da4dfcb25d7.PNG)
+
+
+![denoised_7](https://user-images.githubusercontent.com/65066352/124307568-4bd0f800-db68-11eb-95e0-5d53adca2f11.PNG)
+
 
 The results evidently show that the denoised images using model-predicted pixel values with MSE loss minimization, are visually convincing, with large improvements locating the lost or blur image details. Thus, the vagueness of original real-time blurred image is not eliminated entirely, but is surely reduced in order to obtain few more image specifics. While this model has been proposed through numerous trial and error processes, there should be an improved way of tuning the model structure and hyper parameters so as to obtain a higher Signal to Noise Ratio(SNR) for future images. Deriving a method to design suitable model complexity for each problem is needed. The future scope of this article extends towards achieving greater accuracy with research focused on minimum loss of image details while abstraction in convoluting the image arrays and retaining these details during deconvolutional layers, towards the other half of the model.
 
